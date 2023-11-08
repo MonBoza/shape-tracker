@@ -25,3 +25,5 @@ describe("Triangle", () => {
         expect(scalTriangle.checkType()).toEqual("scalene triangle");  
     });
 });
+
+
